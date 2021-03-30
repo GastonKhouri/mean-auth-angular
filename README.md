@@ -15,3 +15,7 @@ El backend implementa lo siguiente:
 - Encriptar contraseñas
 
 Recuerden instalar los modulos de node con `npm install`.
+
+Si quieren probar la aplicación completa en producción les dejo el siguiente link: 
+
+[AuthApp](https://gaston-mean.herokuapp.com/auth/login)
