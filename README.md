@@ -1,6 +1,6 @@
 # MEAN auth backend
 
-Se realizó un backend para ser implementado con angular, se está realizando utilizando el MEAN stack (Mongo, Express, Angular, Node).
+Se realizó un backend para ser implementado con angular, se realizó utilizando el MEAN stack (Mongo, Express, Angular, Node).
 
 El backend implementa lo siguiente:
 
